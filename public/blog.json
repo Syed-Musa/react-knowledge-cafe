@@ -1,52 +1,42 @@
 [
     {
-        "ID": "12345",
-        "Cover": "https://i.ibb.co/8KNJrsG/Blog-cover.jpg",
-        "Title": "The Enigmatic Adventure",
-        "Author": "Cassandra Winters",
-        "Author_img": "https://i.ibb.co/r7r0Y32/authors.jpg",
-        "Posted_Date": "2023-08-20",
-        "Reading_Time": "2 hours",
-        "Hashtags": "#Adventure #Mystery #Fiction"
+        "id": "1",
+        "cover": "https://i.ibb.co/4dZGswW/1.jpg",
+        "title": "The Enigmatic Adventure",
+        "author": "Cassandra Winters",
+        "author_img": "https://i.ibb.co/bRWXvQB/boy1.png",
+        "posted_date": "2023-08-20",
+        "reading_time": "2 hours",
+        "hashtags": "#Adventure #Mystery #Fiction"
     },
     {
-        "ID": "67890",
-        "Cover": "https://i.ibb.co/R9yYxGf/digital-agency.jpg",
-        "Title": "Secrets of the Starlight Society",
-        "Author": "Benjamin Hawthorne",
-        "Author_img": "https://i.ibb.co/4N47Wvf/authors02.jpg",
-        "Posted_Date": "2023-09-05",
-        "Reading_Time": "3.5 hours",
-        "Hashtags": "#ScienceFiction #Conspiracy #Thriller"
+        "id": "2",
+        "cover": "https://i.ibb.co/WsCMS9Z/2.png",
+        "title": "Secrets of the Starlight Society",
+        "author": "Benjamin Hawthorne",
+        "author_img": "https://i.ibb.co/0YvFCp5/boy2.jpg",
+        "posted_date": "2023-09-05",
+        "reading_time": "3.5 hours",
+        "hashtags": "#ScienceFiction #Conspiracy #Thriller"
     },
     {
-        "ID": "13579",
-        "Cover": "https://i.ibb.co/frGxMdK/Business.png",
-        "Title": "A Tale of Two Realms",
-        "Author": "Tim Seifert",
-        "Author_img": "https://i.ibb.co/GtwQThZ/authors03.jpg",
-        "Posted_Date": "2023-07-15",
-        "Reading_Time": "1.5 hours",
-        "Hashtags": "#Fantasy #Magic #Adventure"
+        "id": "3",
+        "cover": "https://i.ibb.co/fF8Hd3T/3.png",
+        "title": "A Tale of Two Realms",
+        "author": "Tim Seifert",
+        "author_img": "https://i.ibb.co/QXdNXNX/girl1.jpg",
+        "posted_date": "2023-07-15",
+        "reading_time": "1.5 hours",
+        "hashtags": "#Fantasy #Magic #Adventure"
     },
     {
-        "ID": "24680",
-        "Cover": "https://i.ibb.co/Snp9L0G/Agency.png",
-        "Title": "The Art of Deception",
-        "Author": "Olivia Bracewell",
-        "Author_img": "https://i.ibb.co/FKmTK2P/authors05.jpg",
-        "Posted_Date": "2023-08-10",
-        "Reading_Time": "2.5 hours",
-        "Hashtags": "#Mystery #Espionage #Suspense"
-    },
-    {
-        "ID": "98765",
-        "Cover": "https://i.ibb.co/LNs5hc1/Travel.png",
-        "Title": "Beyond the Horizon",
-        "Author": "Emily Collins",
-        "Author_img": "https://i.ibb.co/drnxdq7/trevelers.jpg",
-        "Posted_Date": "2023-09-02",
-        "Reading_Time": "4 hours",
-        "Hashtags": "#Adventure #Exploration #ScienceFiction"
+        "id": "4",
+        "cover": "https://i.ibb.co/twRYN10/4.jpg",
+        "title": "The Art of Deception",
+        "author": "Olivia Bracewell",
+        "author_img": "https://i.ibb.co/LrJF2CD/girl2.jpg",
+        "posted_date": "2023-08-10",
+        "reading_time": "2.5 hours",
+        "hashtags": "#Mystery #Espionage #Suspense"
     }
 ]
